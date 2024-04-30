@@ -1,2 +1,1 @@
-# coursera02
-This is the Coursera test version 02
+# This is B1 - The first branch of coursera02
